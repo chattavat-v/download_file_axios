@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/chattavat-v/download_file_axios#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fs": "0.0.1-security",
     "path": "^0.12.7"
   }
